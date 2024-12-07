@@ -1,0 +1,28 @@
+.keyword{
+    color: red;
+}
+
+.hexa{
+    color: #ff0000;
+}
+
+.rgb{
+    color: rgb(255, 0, 0);
+}
+
+.bg{
+    background-color: lightgray;
+}
+
+.famille1{
+    
+    font-family: Futura, Verdana, sans-serif;
+}
+
+.famille2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.famille3{
+    font-family: 'Courier New', Courier, monospace;
+}
